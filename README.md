@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaeruShi404
+- 👋 Hi, I’m KaeruShi
 - 👀 I’m interested in Anime and UI/UX
 - 🌱 I’m currently learning Kotlin Langauge
 - 📫 How to reach me t.me/KaeruShi
