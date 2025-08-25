@@ -1,9 +1,8 @@
-- 👋 Hi, I’m KaeruShi
-- 👀 I’m interested in Anime and UI/UX
-- 🌱 I’m currently learning Kotlin Langauge
-- 📫 How to reach me t.me/KaeruShi
+# Hi, I'm KaeruShi 👋
 
-<!---
-KaeruShi404/KaeruShi404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Currently working on: Android Development
+- 🌱 Learning: Jetpack Compose & Web Dev
+- 💬 Ask me about: Kotlin, Xposed, and custom Android tweaks
+- ⚡ Fun fact: I drink ☕ while debugging
+
+![Farel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaerushi&show_icons=true&theme=tokyonight)
